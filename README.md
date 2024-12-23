@@ -1,4 +1,5 @@
-
+## 👋Introduction👋
+Hello👋, I am Thanh(Jimmy), an Australian student from Vietnam. I am currently studying with a major in information technology and I have a strong passion for artificial intelligence. This account is where I store all the fun projects I've done while studying AI. If people feel interested in these projects, don't hesitate to give me stars or forks. Thanks for supporting me🙏
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/willump.thankbestnunu) 
 
