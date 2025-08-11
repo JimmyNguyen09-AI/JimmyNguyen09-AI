@@ -12,10 +12,10 @@ If you like my work, feel free to ⭐ star or 🍴 fork — it really motivates 
 ## 🌐 Connect with me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/willump.thankbestnunu)  
 
-
 ---
 
 ## 💻 Tech Stack
+
 ### 🐍 AI & Data Science
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -24,12 +24,17 @@ If you like my work, feel free to ⭐ star or 🍴 fork — it really motivates 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 🌐 Software Development
+### 🌐 Web Development
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+
+### 🗄️ Databases & ORM
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-3A2E2E?style=for-the-badge&logoColor=white)
 
 ### 🤖 AI Agent & LLM Frameworks
 ![OpenAI GPT](https://img.shields.io/badge/OpenAI%20GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -39,7 +44,13 @@ If you like my work, feel free to ⭐ star or 🍴 fork — it really motivates 
 ![Pydantic AI](https://img.shields.io/badge/Pydantic%20AI-FF5733?style=for-the-badge&logoColor=white)
 ![Logfire](https://img.shields.io/badge/Logfire-FF9800?style=for-the-badge&logoColor=white)
 
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 ---
+
 
 ## 📊 GitHub Stats
 <p align="center">
