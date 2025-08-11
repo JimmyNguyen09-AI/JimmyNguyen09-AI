@@ -2,7 +2,7 @@
 
 🎓 **Australian IT Student from Vietnam**  
 💡 Passionate about **Artificial Intelligence** & building cool projects.  
-📚 Currently majoring in **Information Technology** and exploring Machine Learning, Computer Vision, and AI Agents.
+📚 Currently majoring in **Information Technology** and exploring Machine Learning, Deep Learning, Computer Vision, and AI Agents.
 
 This is where I store my fun & experimental AI projects.  
 If you like my work, feel free to ⭐ star or 🍴 fork — it really motivates me! 🙏
