@@ -52,9 +52,4 @@ If you like my work, feel free to ⭐ star or 🍴 fork — it really motivates 
 </p>
 
 ---
-
-## 🚀 Profile Views
-[![](https://visitcount.itsvg.in/api?id=JimmyNguyen09-AI&label=Profile%20Views&color=4&pretty=true)](https://visitcount.itsvg.in)
-
----
 ⭐ **“Code is like humor. When you have to explain it, it’s bad.”**
