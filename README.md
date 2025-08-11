@@ -11,7 +11,7 @@ If you like my work, feel free to ⭐ star or 🍴 fork — it really motivates 
 
 ## 🌐 Connect with me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/willump.thankbestnunu)  
-[![GitHub Followers](https://img.shields.io/github/followers/JimmyNguyen09-AI?label=Follow&style=social)](https://github.com/JimmyNguyen09-AI)
+
 
 ---
 
